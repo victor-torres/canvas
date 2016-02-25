@@ -1,0 +1,56 @@
+{
+  "key_partners": [
+    {
+      "color": "yellow",
+      "text": "Card content"
+    }
+  ],
+  "key_activities": [
+    {
+      "color": "yellow",
+      "text": "Card content"
+    }
+  ],
+  "key_resources": [
+    {
+      "color": "yellow",
+      "text": "Card content"
+    }
+  ],
+  "value_propositions": [
+    {
+      "color": "yellow",
+      "text": "Card content"
+    }
+  ],
+  "customer_relationships": [
+    {
+      "color": "yellow",
+      "text": "Card content"
+    }
+  ],
+  "channels": [
+    {
+      "color": "yellow",
+      "text": "Card content"
+    }
+  ],
+  "cusomer_segments": [
+    {
+      "color": "yellow",
+      "text": "Card content"
+    }
+  ],
+  "cost_structure": [
+    {
+      "color": "yellow",
+      "text": "Card content"
+    }
+  ],
+  "revenue_streams": [
+    {
+      "color": "yellow",
+      "text": "Card content"
+    }
+  ],
+}
