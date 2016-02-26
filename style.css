@@ -1,0 +1,61 @@
+body {
+  padding-top: 5rem;
+}
+
+html, body, div.container-fluid {
+  height: 100%;
+}
+
+div.canvas {
+  height: 100%;
+  border-color: black;
+  padding-bottom: .6em;
+}
+
+div.canvas div.row:first-child {
+  height: 70%;
+}
+
+div.canvas > div.row:not(first-child) {
+  height: 30%;
+}
+
+div.canvas > div.row:not(first-child) > div.col-md-5 {
+  height: 100%;
+}
+
+div.canvas > div.row:nth-child(n+1) > div.col-md-2 {
+  height: 100%;
+  border-top: solid;
+}
+
+div.canvas > div.row:nth-child(n+1) > div.col-md-2 > div.row {
+  height: 50%;
+  padding-left: .67em;
+}
+
+div.canvas > div.row:nth-child(n+1) > div.col-md-2 > div.row:last-child {
+  border-top: solid;
+  padding-top: .6em;
+}
+
+div.canvas div.col-md-2,
+div.canvas div.col-md-5 {
+  border-left: solid;
+  border-bottom: solid;
+  padding-top: .6em;
+}
+
+div.canvas div.col-md-2:last-child,
+div.canvas div.col-md-5:last-child {
+  border-right: solid;
+}
+
+h1 {
+  font-size: 1em;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
