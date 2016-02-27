@@ -10,13 +10,17 @@
 
   <title>The Canvas Repository</title>
 
-  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" integrity="sha384-XXXXXXXX" crossorigin="anonymous">
-  <script src="bower_components/bootstrap/dist/js/bootstrap.js" integrity="sha384-XXXXXXXX" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
   <link rel="stylesheet" href="style.css">
+  <script src="bower_components/jquery/dist/jquery.js"></script>
+  <script src="bower_components/tether/dist/js/tether.js"></script>
+  <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+  <script src="bower_components/angular/angular.js"></script>
+  <script src="script.js"></script>
 
 </head>
 
-<body>
+<body ng-app="canvasApp" ng-controller="CanvasController">
 
   <nav class="navbar navbar-fixed-top navbar-dark bg-inverse">
     <a class="navbar-brand" href="#">The Canvas Repository</a>
@@ -72,6 +76,11 @@
         </div>
       </div>
 
+    </div>
+
+    <div>
+      teste
+      {{ teste }}
     </div>
 
 
