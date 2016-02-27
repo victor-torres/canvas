@@ -67,6 +67,19 @@ div.canvas div.col-md-5 .card {
   width: 50%;
 }
 
+.search-form {
+  width: 50%;
+}
+
+.search-form .label {
+  color: black;
+}
+
+.search-form .name {
+  font-weight: bold;
+  padding-right: .3em;
+}
+
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;

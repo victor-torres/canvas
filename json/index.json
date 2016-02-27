@@ -1,7 +1,14 @@
-[
-  {
-    "file": "example.json",
-    "name": "Example",
-    "description": "An example canvas JSON file."
-  }
-]
+{
+  "index": [
+    {
+      "file": "example.json",
+      "name": "Example",
+      "description": "An example canvas JSON file."
+    },
+    {
+      "file": "facebook.json",
+      "name": "Facebook",
+      "description": "The social network."
+    }
+  ]
+}

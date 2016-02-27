@@ -1,0 +1,104 @@
+{
+  "key_partners": [
+    {
+      "color": "yellow",
+      "text": "Content partners: TV, music, movies, news..."
+    }
+  ],
+  "key_activities": [
+    {
+      "color": "yellow",
+      "text": "Platform development"
+    },
+    {
+      "color": "yellow",
+      "text": "Data center operations management"
+    }
+  ],
+  "key_resources": [
+    {
+      "color": "yellow",
+      "text": "Facebook platform"
+    },
+    {
+      "color": "yellow",
+      "text": "Technology infrastructure"
+    }
+  ],
+  "value_propositions": [
+    {
+      "color": "green",
+      "text": "Connect with friends, discover and learn, express yourself"
+    },
+    {
+      "color": "blue",
+      "text": "Reach, relevance, social context, engagement"
+    },
+    {
+      "color": "red",
+      "text": "Personalized and social experiences, social distribution, payments"
+    }
+  ],
+  "customer_relationships": [
+    {
+      "color": "green",
+      "text": "Same-side network effects"
+    },
+    {
+      "color": "blue",
+      "text": "Cross-side network effects"
+    }
+  ],
+  "channels": [
+    {
+      "color": "green",
+      "text": "Internet users"
+    },
+    {
+      "color": "blue",
+      "text": "Advertisers and marketers"
+    },
+    {
+      "color": "red",
+      "text": "Developers"
+    }
+  ],
+  "cusomer_segments": [
+    {
+      "color": "yellow",
+      "text": "Card content"
+    }
+  ],
+  "cost_structure": [
+    {
+      "color": "yellow",
+      "text": "Data center costs"
+    },
+    {
+      "color": "yellow",
+      "text": "Marketing and sales"
+    },
+    {
+      "color": "yellow",
+      "text": "Research and development"
+    },
+    {
+      "color": "yellow",
+      "text": "General and administrative"
+    }
+  ],
+  "revenue_streams": [
+    {
+      "color": "green",
+      "text": "Free"
+    },
+    {
+      "color": "blue",
+      "text": "Ad Revenues"
+    },
+    {
+      "color": "red",
+      "text": "Payment Revenues"
+    }
+  ]
+}
