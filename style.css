@@ -34,6 +34,10 @@ div.canvas > div.row:nth-child(n+1) > div.col-md-2 > div.row {
   padding-left: .67em;
 }
 
+div.canvas > div.row:nth-child(n+1) > div.col-md-2 > div.row .card {
+  margin-right: .67em;
+}
+
 div.canvas > div.row:nth-child(n+1) > div.col-md-2 > div.row:last-child {
   border-top: solid;
   padding-top: .6em;
@@ -53,6 +57,14 @@ div.canvas div.col-md-5:last-child {
 
 h1 {
   font-size: 1em;
+}
+
+.card p {
+  margin-bottom: 0;
+}
+
+div.canvas div.col-md-5 .card {
+  width: 50%;
 }
 
 .starter-template {
