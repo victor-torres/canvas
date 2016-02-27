@@ -1,0 +1,24 @@
+{
+  "name": "The Canvas Repository",
+  "homepage": "https://github.com/victor-torres/canvas",
+  "authors": [
+    "Victor Torres <vpaivatorres@gmail.com>"
+  ],
+  "description": "Um repositório aberto de modelos de negócio.",
+  "main": "bower.json",
+  "keywords": [
+    "business",
+    "model",
+    "canvas"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.2"
+  }
+}
