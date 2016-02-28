@@ -1,0 +1,114 @@
+{
+  "name": "Visa",
+  "description": "The leader in global payments.",
+  "source": "https://bmimatters.com/tag/business-model-canvas-examples/",
+  "key_partners": [
+    {
+      "color": "yellow",
+      "text": "Technology alliances"
+    },
+    {
+      "color": "yellow",
+      "text": "Commercial partners"
+    }
+  ],
+  "key_activities": [
+    {
+      "color": "yellow",
+      "text": "Payments network management"
+    },
+    {
+      "color": "yellow",
+      "text": "Transaction processing"
+    },
+    {
+      "color": "yellow",
+      "text": "Value-added services"
+    }
+  ],
+  "key_resources": [
+    {
+      "color": "yellow",
+      "text": "Payment products platform"
+    },
+    {
+      "color": "yellow",
+      "text": "VISA brand"
+    }
+  ],
+  "value_propositions": [
+    {
+      "color": "red",
+      "text": "Payment product platforms for card programs and cashless payments"
+    },
+    {
+      "color": "blue",
+      "text": "Convenience, security, rewards associated with card payments"
+    },
+    {
+      "color": "green",
+      "text": "Improved sales, customer convenience"
+    }
+  ],
+  "customer_relationships": [],
+  "channels": [
+    {
+      "color": "yellow",
+      "text": "Sponsorships (FIFA Worldcup, Olympics)"
+    },
+    {
+      "color": "yellow",
+      "text": "TV ads, tradeshows, conferences"
+    }
+  ],
+  "customer_segments": [
+    {
+      "color": "red",
+      "text": "Financial institutions (issuers)"
+    },
+    {
+      "color": "red",
+      "text": "Financial institutions (acquirers)"
+    },
+    {
+      "color": "blue",
+      "text": "Card holders"
+    },
+    {
+      "color": "green",
+      "text": "Merchants"
+    }
+  ],
+  "cost_structure": [
+    {
+      "color": "yellow",
+      "text": "Personnel"
+    },
+    {
+      "color": "yellow",
+      "text": "Network, EDP, communications"
+    },
+    {
+      "color": "yellow",
+      "text": "Brand promotion"
+    },
+    {
+      "color": "yellow",
+      "text": "Litigations provision"
+    }
+  ],
+  "revenue_streams": [
+    {
+      "color": "yellow",
+      "text": "Services revenues"
+    },
+    {
+      "color": "yellow",
+      "text": "Data processing revenues"
+    },
+    {
+      "color": "yellow",
+      "text": "International revenues"
+    }
+  ]
+}
