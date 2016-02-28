@@ -9,6 +9,11 @@
       "file": "facebook.json",
       "name": "Facebook",
       "description": "The social network."
+    },
+    {
+      "file": "google.json",
+      "name": "Google",
+      "description": "The search engine."
     }
   ]
 }
