@@ -1,0 +1,147 @@
+{
+  "name": "Google",
+  "description": "The search engine.",
+  "source": "https://bmimatters.com/tag/business-model-canvas-examples/",
+  "key_partners": [
+    {
+      "color": "yellow",
+      "text": "Distribution partners"
+    },
+    {
+      "color": "yellow",
+      "text": "Open Handset Alliance"
+    },
+    {
+      "color": "yellow",
+      "text": "OEMs for Chrome OS devices"
+    }
+  ],
+  "key_activities": [
+    {
+      "color": "yellow",
+      "text": "Research & Development: build new products, improve existing products..."
+    },
+    {
+      "color": "yellow",
+      "text": "Manage massive IT infrastructure"
+    }
+  ],
+  "key_resources": [
+    {
+      "color": "yellow",
+      "text": "Datacenters"
+    },
+    {
+      "color": "yellow",
+      "text": "IPs, brand..."
+    }
+  ],
+  "value_propositions": [
+    {
+      "color": "green",
+      "text": "Web Search, Gmail, Google+"
+    },
+    {
+      "color": "red",
+      "text": "Targeted ads using Adwords (CPC)"
+    },
+    {
+      "color": "red",
+      "text": "Extend ad campaigns using Adsense"
+    },
+    {
+      "color": "red",
+      "text": "Display advertising management services"
+    },
+    {
+      "color": "cyan",
+      "text": "OS and platforms: Android, Chrome OS"
+    },
+    {
+      "color": "blue",
+      "text": "Hosted web-based Google Apps"
+    }
+  ],
+  "customer_relationships": [
+    {
+      "color": "yellow",
+      "text": "Automation (where possible)"
+    },
+    {
+      "color": "yellow",
+      "text": "Dedicated sales for lage accounts"
+    }
+  ],
+  "channels": [
+    {
+      "color": "yellow",
+      "text": "Global sales and support teams"
+    },
+    {
+      "color": "yellow",
+      "text": "Multi-product sales force"
+    }
+  ],
+  "customer_segments": [
+    {
+      "color": "green",
+      "text": "Internet users"
+    },
+    {
+      "color": "red",
+      "text": "Advertisers, ad agencies"
+    },
+    {
+      "color": "red",
+      "text": "Google Network Members"
+    },
+    {
+      "color": "cyan",
+      "text": "Mobile device owners"
+    },
+    {
+      "color": "cyan",
+      "text": "Developers"
+    },
+    {
+      "color": "blue",
+      "text": "Enterprises"
+    }
+  ],
+  "cost_structure": [
+    {
+      "color": "yellow",
+      "text": "Traffic aquisition costs"
+    },
+    {
+      "color": "yellow",
+      "text": "R&D costs (mainly personnel)"
+    },
+    {
+      "color": "yellow",
+      "text": "Datacenter operations"
+    },
+    {
+      "color": "yellow",
+      "text": "S&M, G&A"
+    }
+  ],
+  "revenue_streams": [
+    {
+      "color": "red",
+      "text": "Ad revenues - Google websites"
+    },
+    {
+      "color": "red",
+      "text": "Ad revenues - Non-Google websites"
+    },
+    {
+      "color": "blue",
+      "text": "Enterprise product sales"
+    },
+    {
+      "color": "green",
+      "text": "Free"
+    }
+  ]
+}

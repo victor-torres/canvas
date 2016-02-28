@@ -1,4 +1,7 @@
 {
+  "name": "Example",
+  "description": "An example canvas JSON file.",
+  "source": "Optional source information.",
   "key_partners": [
     {
       "color": "yellow",
