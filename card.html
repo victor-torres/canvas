@@ -1,15 +1,20 @@
-<div class="card card-inverse"
-     ng-class="{
-       'card-primary': card.color == 'blue',
-       'card-info': card.color == 'cyan',
-       'card-warning': card.color == 'yellow',
-       'card-success': card.color == 'green',
-       'card-danger': card.color == 'red',
+<div ng-class="{
+       'col-md-12': cardType != 'cost_structure' && cardType != 'revenue_streams',
+       'col-md-6': cardType == 'cost_structure' || cardType == 'revenue_streams',
      }"
      ng-repeat="card in canvas[cardType]">
-  <div class="card-block">
-    <blockquote class="card-blockquote">
-      <p>{{ card.text }}</p>
-    </blockquote>
+  <div class="card card-inverse"
+       ng-class="{
+         'card-primary': card.color == 'blue',
+         'card-info': card.color == 'cyan',
+         'card-warning': card.color == 'yellow',
+         'card-success': card.color == 'green',
+         'card-danger': card.color == 'red',
+       }">
+    <div class="card-block">
+      <blockquote class="card-blockquote">
+        <p>{{ card.text }}</p>
+      </blockquote>
+    </div>
   </div>
 </div>

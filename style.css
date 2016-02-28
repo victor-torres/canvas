@@ -63,10 +63,6 @@ h1 {
   margin-bottom: 0;
 }
 
-div.canvas div.col-md-5 .card {
-  width: 50%;
-}
-
 .search-form {
   width: 50%;
 }
@@ -78,6 +74,11 @@ div.canvas div.col-md-5 .card {
 .search-form .name {
   font-weight: bold;
   padding-right: .3em;
+}
+
+.card-block {
+  padding: .67em;
+  font-size: .8em;
 }
 
 .starter-template {
