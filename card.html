@@ -1,4 +1,11 @@
-<div class="card card-inverse card-primary"
+<div class="card card-inverse"
+     ng-class="{
+       'card-primary': card.color == 'blue',
+       'card-info': card.color == 'cyan',
+       'card-warning': card.color == 'yellow',
+       'card-success': card.color == 'green',
+       'card-danger': card.color == 'red',
+     }"
      ng-repeat="card in canvas[cardType]">
   <div class="card-block">
     <blockquote class="card-blockquote">
