@@ -1,7 +1,7 @@
 var app = angular.module('canvasApp', ['selectize']);
 
 app.controller('CanvasController', function($scope, $http) {
-  $http.get('json/index.json').then(
+  $http.get('json/index.json', {cache: false}).then(
     function(res) {
       $scope.canvasIndex = res.data.index;
       $scope.selectedCanvas = $scope.canvasIndex[0];
@@ -42,7 +42,7 @@ app.controller('CanvasController', function($scope, $http) {
       return;
     }
     console.log('loading', filename);
-    $http.get('json/' + filename).then(
+    $http.get('json/' + filename, {cache: false}).then(
       function(res) {
         console.log(res.data);
         $scope.canvas = res.data;

@@ -52,6 +52,20 @@
   "channels": [
     {
       "color": "green",
+      "text": "Websites, mobile apps"
+    },
+    {
+      "color": "blue",
+      "text": "Facebook ads, Facebook pages"
+    },
+    {
+      "color": "red",
+      "text": "Developer tools and APIs"
+    }
+  ],
+  "customer_segments": [
+    {
+      "color": "green",
       "text": "Internet users"
     },
     {
@@ -61,12 +75,6 @@
     {
       "color": "red",
       "text": "Developers"
-    }
-  ],
-  "cusomer_segments": [
-    {
-      "color": "yellow",
-      "text": "Card content"
     }
   ],
   "cost_structure": [
