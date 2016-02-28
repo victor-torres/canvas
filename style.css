@@ -55,6 +55,11 @@ div.canvas div.col-md-5:last-child {
   border-right: solid;
 }
 
+div.canvas div.col-md-2:last-child,
+div.canvas div.col-md-5:last-child {
+  overflow-y: scroll;
+}
+
 h1 {
   font-size: 1em;
 }
@@ -79,6 +84,26 @@ h1 {
 .card-block {
   padding: .67em;
   font-size: .8em;
+}
+
+.canvas-section {
+  display: table;
+  height: 100%;
+}
+
+.canvas-section > div,
+.canvas-section > card {
+  display: table-row;
+  height: 0;
+}
+
+.canvas-section > card {
+  height: auto;
+}
+
+.canvas-card {
+  height: 100%;
+  overflow-y: auto;
 }
 
 .starter-template {
