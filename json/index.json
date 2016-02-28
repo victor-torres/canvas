@@ -14,6 +14,11 @@
       "file": "google.json",
       "name": "Google",
       "description": "The search engine."
+    },
+    {
+      "file": "twitter.json",
+      "name": "Twitter",
+      "description": "The microblogging with 140 characters."
     }
   ]
 }

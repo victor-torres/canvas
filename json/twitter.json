@@ -1,0 +1,110 @@
+{
+  "name": "Twitter",
+  "description": "The microblogging with 140 characters.",
+  "source": "https://bmimatters.com/tag/business-model-canvas-examples/",
+  "key_partners": [
+    {
+      "color": "yellow",
+      "text": "Search vendors"
+    },
+    {
+      "color": "yellow",
+      "text": "Device vendors"
+    },
+    {
+      "color": "yellow",
+      "text": "Media companies"
+    },
+    {
+      "color": "yellow",
+      "text": "Mobile operators"
+    }
+  ],
+  "key_activities": [
+    {
+      "color": "yellow",
+      "text": "Platform development"
+    }
+  ],
+  "key_resources": [
+    {
+      "color": "yellow",
+      "text": "Twitter platform"
+    }
+  ],
+  "value_propositions": [
+    {
+      "color": "green",
+      "text": "Stay connected"
+    },
+    {
+      "color": "green",
+      "text": "News/events"
+    },
+    {
+      "color": "red",
+      "text": "Targeted marketing"
+    },
+    {
+      "color": "blue",
+      "text": "Twitter Apps"
+    }
+  ],
+  "customer_relationships": [],
+  "channels": [
+    {
+      "color": "green",
+      "text": "Websites, mobile and desktop apps, SMS"
+    },
+    {
+      "color": "blue",
+      "text": "Twitter API"
+    }
+  ],
+  "customer_segments": [
+    {
+      "color": "green",
+      "text": "Internet users"
+    },
+    {
+      "color": "red",
+      "text": "Enterprises"
+    },
+    {
+      "color": "blue",
+      "text": "Developers"
+    }
+  ],
+  "cost_structure": [
+    {
+      "color": "yellow",
+      "text": "Employees"
+    },
+    {
+      "color": "yellow",
+      "text": "Servers"
+    }
+  ],
+  "revenue_streams": [
+    {
+      "color": "yellow",
+      "text": "Licensing Data Streams"
+    },
+    {
+      "color": "yellow",
+      "text": "Promoted accounts"
+    },
+    {
+      "color": "yellow",
+      "text": "Promoted tweets"
+    },
+    {
+      "color": "yellow",
+      "text": "Promoted trends"
+    },
+    {
+      "color": "yellow",
+      "text": "Analytics"
+    }
+  ]
+}
