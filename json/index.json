@@ -8,14 +8,12 @@
     {
       "file": "facebook.json",
       "name": "Facebook",
-      "description": "The social network.",
-      "source": "https://bmimatters.com/tag/business-model-canvas-examples/"
+      "description": "The social network."
     },
     {
       "file": "google.json",
       "name": "Google",
-      "description": "The search engine.",
-      "source": "https://bmimatters.com/tag/business-model-canvas-examples/"
+      "description": "The search engine."
     }
   ]
 }
