@@ -19,6 +19,16 @@
       "file": "twitter.json",
       "name": "Twitter",
       "description": "The microblogging with 140 characters."
+    },
+    {
+      "file": "linkedin.json",
+      "name": "LinkedIn",
+      "description": "The professional network."
+    },
+    {
+      "file": "visa.json",
+      "name": "Visa",
+      "description": "The leader in global payments."
     }
   ]
 }

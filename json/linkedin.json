@@ -1,0 +1,115 @@
+{
+  "name": "LinkedIn",
+  "description": "The professional network.",
+  "source": "https://bmimatters.com/tag/business-model-canvas-examples/",
+  "key_partners": [
+    {
+      "color": "yellow",
+      "text": "Equinix (datacenter)"
+    },
+    {
+      "color": "yellow",
+      "text": "Content providers"
+    }
+  ],
+  "key_activities": [
+    {
+      "color": "yellow",
+      "text": "Platform development"
+    }
+  ],
+  "key_resources": [
+    {
+      "color": "yellow",
+      "text": "LinkedIn platform"
+    }
+  ],
+  "value_propositions": [
+    {
+      "color": "blue",
+      "text": "Manage professional identity and build professional network"
+    },
+    {
+      "color": "green",
+      "text": "Identify and reach the right team"
+    },
+    {
+      "color": "cyan",
+      "text": "Reach the target audience"
+    },
+    {
+      "color": "red",
+      "text": "Access to LinkedIn database content via APIs and widgets"
+    }
+  ],
+  "customer_relationships": [
+    {
+      "color": "blue",
+      "text": "Same-side network effects"
+    },
+    {
+      "color": "green",
+      "text": "Cross-side network effects"
+    }
+  ],
+  "channels": [
+    {
+      "color": "yellow",
+      "text": "LinkedIn website, mobile apps"
+    },
+    {
+      "color": "yellow",
+      "text": "Field sales"
+    }
+  ],
+  "customer_segments": [
+    {
+      "color": "blue",
+      "text": "Internet users"
+    },
+    {
+      "color": "green",
+      "text": "Recruiters"
+    },
+    {
+      "color": "cyan",
+      "text": "Advertisers and maketers"
+    },
+    {
+      "color": "red",
+      "text": "Developers"
+    }
+  ],
+  "cost_structure": [
+    {
+      "color": "yellow",
+      "text": "Web hosting costs"
+    },
+    {
+      "color": "yellow",
+      "text": "Marketing and sales"
+    },
+    {
+      "color": "yellow",
+      "text": "Product development"
+    },
+    {
+      "color": "yellow",
+      "text": "General and administrative"
+    }
+  ],
+  "revenue_streams": [
+    {
+      "color": "blue",
+      "text": "Free offerings and premium subscriptions"
+    },
+    {
+      "color": "green",
+      "text": "Hiring solutions"
+    },
+    {
+      "color": "cyan",
+      "text": "Marketing solutions"
+    }
+  ]
+}
